@@ -11,6 +11,3 @@ https://www.britannica.com/biography/Nikola-Tesla
 
 Engenharia de Prompts e "Cicatrizes":Como aplicar as técnicas de visualização de Tesla nos estudos?, Dê exemplos de cálculos mentais., Dicas para focar no estudo.
 Miniguia de Estudo (Entrega Final): Apresente o resultado final consolidado, que deve conter:
-Resumos estruturados do assunto;
-Um glossário com os principais conceitos aprendidos;
-Um conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema.
